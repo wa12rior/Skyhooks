@@ -1,0 +1,76 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Gravity Field
+  - Planet
+  - LoseAudio
+  - BackFire
+  - YouWin
+  - RestartButton
+  - SettingsButton
+  - Canvas
+  - UI
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Background
+  - Gravity Field
+  - Spaceship
+  - Planet
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Background
+    uniqueID: 1671970955
+    locked: 0
+  - name: Gravity Field
+    uniqueID: 1876066401
+    locked: 0
+  - name: Player
+    uniqueID: 176822297
+    locked: 0
+  - name: Lasers
+    uniqueID: 2328820647
+    locked: 0
+  - name: Enemy
+    uniqueID: 4093117865
+    locked: 0
+  - name: Planet
+    uniqueID: 598031377
+    locked: 0
+  - name: Asteroids
+    uniqueID: 2916523237
+    locked: 0
+  - name: UI
+    uniqueID: 4234496411
+    locked: 0
